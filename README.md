@@ -2,7 +2,7 @@
 
 
 ## Info
-Playable MegaMan made by MegaChibisX, based on the classic 2d games developed by Capcom. This is the beta version of the game for Windows and Mac that does not require Unity to be installed in order to run. If you want to access the game engine itself or check out the game with Unity, here's the link: https://github.com/MegaChibisX/MegaMan-Unity-8Bit-Engine
+Playable MegaMan project made by MegaChibisX, based on the classic 2d games developed by Capcom. This is the beta version of the game for Windows and Mac that does not require Unity to be installed in order to run. If you want to access the game engine itself (open source) or check out the game with Unity, here's the link: https://github.com/MegaChibisX/MegaMan-Unity-8Bit-Engine
 
 ## Features
 Intro Cutscene <br />
@@ -30,7 +30,7 @@ Switch Gear: Q or W <br />
 Menu/Select: Return
 
 ## Bugs
-Please feel free to report any bugs founds
+Please feel free to report any bugs found
 
 ## Contact
 Twitter: https://twitter.com/MegaChibisX
